@@ -1,0 +1,10 @@
+.intro__image {
+  background-image: url(../../../images/intro-image.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  grid-area: image;
+  width: 65%;
+  padding-bottom: 65%;
+  margin: 0 auto;
+}
