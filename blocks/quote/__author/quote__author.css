@@ -1,7 +1,8 @@
 .quote__author {
     text-transform: uppercase;
+    color: #010101;
     font-weight: bold;
     font-size: 16px;
-    font-family: 'OpenSansCondensed';
-    letter-spacing: 0.5px;
+    line-height: 1.3;
+    margin: 0 0 30px;
 }

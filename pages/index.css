@@ -4,7 +4,6 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/link/link.css);
 
-
 /* header */
 
 @import url(../blocks/header/header.css);
@@ -49,4 +48,4 @@
 /*footer*/
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__copyrght/footer__copyright.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

@@ -1,12 +1,14 @@
 .place__paragraph {
-    max-width: 400px;
-    font-size: 14px;
-    font-weight: 600;
+    font-family: 'Inter';
+    max-width: 450px;
+    font-size: 18px;
+    font-weight: 500;
     line-height: 1.5;
 }
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
         max-width: 728px;
+        font-size: 14px;
     }
 }
