@@ -1,0 +1,20 @@
+.place__article {
+    background-color: #F2F2F2;
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 838px) {
+    .place__article {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__article {
+        max-height: 384px;
+    }
+}

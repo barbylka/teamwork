@@ -1,0 +1,4 @@
+.quote__quotes {
+    display: flex;
+    justify-content: space-between;
+}

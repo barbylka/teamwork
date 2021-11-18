@@ -1,0 +1,9 @@
+.place__article_sea {
+    order: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .place__article_sea {
+        order: 6;
+    }
+}
