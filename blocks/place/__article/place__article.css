@@ -18,3 +18,9 @@
         max-height: 384px;
     }
 }
+
+@media screen and (max-width: 425px) {
+    .place__article {
+        max-height: 420px;
+    }
+}

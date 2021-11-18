@@ -1,8 +1,19 @@
 .footer {
     height: 600px;
-    margin-bottom: 50px;
     background-color: #FECDA7;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .footer {
+        height: 320px;
+    }
 }
