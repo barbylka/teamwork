@@ -1,5 +1,4 @@
 .place {
-    padding-top: 50px;
     display: grid;
     grid-template-columns: 50% 1fr;
     grid-template-rows: 1fr 1fr 1fr;
