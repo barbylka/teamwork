@@ -1,0 +1,26 @@
+.header {
+  background-color: #fff;
+  max-width: 100%;
+  font-family: 'OpenSans', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 1.1;
+  padding: 0;
+  margin: 56px 77px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width:1024px) {
+  .header {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .header {
+    margin: 20px 15px 0;
+    font-size: 10px;
+  }
+}

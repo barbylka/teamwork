@@ -1,0 +1,12 @@
+.header__nav-link {
+  padding: 0;
+  margin: 0 32px 0 0;
+  text-decoration: none;
+  color: #010101;
+}
+
+@media screen and (max-width:768px) {
+  .header__nav-link {
+    margin-right: 15px;
+  }
+}
