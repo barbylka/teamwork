@@ -1,0 +1,9 @@
+.place__article_forest {
+    order: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .place__article_forest {
+        order: 2;
+    }
+}
