@@ -1,0 +1,14 @@
+.place__title {
+    font-family: 'OpenSansCondensed';
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+@media screen and (max-width: 425px) {
+    .place__title {
+        font-size: 30px;
+    }
+}

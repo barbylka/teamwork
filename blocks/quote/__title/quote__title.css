@@ -1,0 +1,15 @@
+.quote__title {
+    font-family: 'OpenSansCondensed';
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    margin: 50px 0 100px;
+}
+
+@media screen and (max-width: 425px) {
+    .quote__title {
+        font-size: 30px;
+        margin: 25px 0 50px;
+    }
+}

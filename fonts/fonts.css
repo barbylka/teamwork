@@ -1,27 +1,23 @@
 @font-face {
-  font-family: 'Inter';
-  src: url('./Inter-Medium.woff') format('woff'),
-       url('./Inter-Medium.woff2') format('woff2');
-  font-weight: 500;
+    font-family: 'Inter';
+    src: url('./Inter-Medium.woff') format('woff'), url('./Inter-Medium.woff2') format('woff2');
+    font-weight: 500;
 }
 
 @font-face {
-  font-family: 'OpenSans';
-  src: url('./OpenSans-Regular.woff') format('woff'),
-       url('./OpenSans-Regular.woff2') format('woff2');
-  font-weight: normal;
+    font-family: 'OpenSans';
+    src: url('./OpenSans-Regular.woff') format('woff'), url('./OpenSans-Regular.woff2') format('woff2');
+    font-weight: normal;
 }
 
 @font-face {
-  font-family: 'OpenSans';
-  src: url('./OpenSans-SemiBold.woff') format('woff'),
-       url('./OpenSans-SemiBold.woff2') format('woff2');
-  font-weight: 600;
+    font-family: 'OpenSans';
+    src: url('./OpenSans-SemiBold.woff') format('woff'), url('./OpenSans-SemiBold.woff2') format('woff2');
+    font-weight: 600;
 }
 
 @font-face {
-  font-family: 'OpenSansCondensed';
-  src: url('./OpenSansCondensed-Bold.woff') format('woff'),
-       url('./OpenSansCondensed-Bold.woff2') format('woff2');
-  font-weight: bold;
+    font-family: 'OpenSansCondensed';
+    src: url('./OpenSansCondensed-Bold.woff') format('woff'), url('./OpenSansCondensed-Bold.woff2') format('woff2');
+    font-weight: bold;
 }

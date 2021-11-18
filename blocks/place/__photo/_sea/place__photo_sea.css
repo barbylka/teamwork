@@ -1,0 +1,9 @@
+.place__photo_sea {
+    order: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .place__photo_sea {
+        order: 5;
+    }
+}
