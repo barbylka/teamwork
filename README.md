@@ -1,22 +1,22 @@
-# Куда я поеду
+# Where I will go
 
-Туризм и путешествия не ограничиваются временем года. Каждый сезон подходит для определенного рода и места отдыха. Здесь собраны основные идеи путешествий, нужно лишь позволить себе уехать.
+Tourism and travel are not limited to the seasons. Each of them is suitable for a particular kind and place of vacation. Here are some basic travel ideas, you just have to let yourself go.
 
-## Технологии
+## Technology stack
 
-Макет проекта, размещенный в директории `images`, иллюстрирует, каким образом должны отображаться блоки и элементы в разрешениях, свойственных для разных типов устройств.
+The project layout's located in the `images` directory and illustrates blocks and elements' positions in different types of devices' resolutions.
 
-* Проект реализован в пользу корректного отображения на представленных разрешениях. Ключевая технология, обеспечившая респонсив сайта:
+* The project is implemented in favor of correct display at the presented resolutions. The key technology that secured the site's responsive:
 ```css
 .block {
   display: grid;
 }
 ```
 
-Также здесь встречаются флекс-боксы, служащие той же цели - строению отзывчивости страницы.
+Flexboxes are also found here, serving the same purpose of building page responsive.
 
-* Файловая структура организована по методологии БЭМ, что означает гибкость в модификации проекта. Каждый контекстный блок может быть переиспользован, если потребуется дополнение информации, или удален без влияния на соседние блоки.
+* The file structure is organized according to BEM methodology, which means flexibility in modifying the project. Each context block can be reused if additional information is needed, or deleted without affecting adjacent blocks.
 
-**Ссылка на GitHub Pages**
+**Link GitHub Pages**
 
-Проект опубликован по [данной ссылке](https://sotnikovich.github.io/teamwork/).
+Project's published [here](https://sotnikovich.github.io/teamwork/).
