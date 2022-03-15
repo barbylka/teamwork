@@ -1,6 +1,6 @@
 # Where I will go
 
-Tourism and travel are not limited to the seasons. Each of them is suitable for a particular kind and place of vacation. Here are some basic travel ideas, you just have to let yourself go.
+Tourism and travel are not limited to the seasons. Each of them is suitable for a particular kind and place of vacation. Here are some basic travel ideas, you just have to let yourself go. Here the landing page is.
 
 ## Technology stack
 
@@ -16,6 +16,14 @@ The project layout's located in the `images` directory and illustrates blocks an
 Flexboxes are also found here, serving the same purpose of building page responsive.
 
 * The file structure is organized according to BEM methodology, which means flexibility in modifying the project. Each context block can be reused if additional information is needed, or deleted without affecting adjacent blocks.
+
+## The refinement plan:
+
+1. Optimize html,
+
+2. Add an interactive blocks,
+
+3. Connect Webpack.
 
 **Link GitHub Pages**
 
