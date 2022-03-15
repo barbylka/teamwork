@@ -19,4 +19,4 @@ Flexboxes are also found here, serving the same purpose of building page respons
 
 **Link GitHub Pages**
 
-Project's published [here](https://sotnikovich.github.io/teamwork/).
+The Project's published [here](https://sotnikovich.github.io/teamwork/).
